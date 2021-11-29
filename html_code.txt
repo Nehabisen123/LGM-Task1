@@ -1,0 +1,45 @@
+<html lang="en"><head>
+	<meta charset="UTF-8">
+	<title>Pollution and Environmental Issues - Home</title>
+	<link rel="stylesheet" href="css/hw1.css">
+</head>
+<body>
+	<header>
+<div class="logo">
+      <img id="header-img" src="p7.jpeg" border:0px >
+    </div>
+		<h1>Pollution and Environmental Issues</h1>
+                
+		
+		
+		<nav>
+			<a href="index.html" class="active">Home</a>
+			<a>About</a>
+			<a>Contact</a>
+			
+		</nav>
+	</header>
+		<main>
+			<aside class="left">
+			<a><img src="p4.jpeg"> </a>
+
+			<a><img src="p2.jpeg"></a>
+
+
+			<a><img src="p5.jpeg"></a>
+		</aside>
+			<section class="right">
+				<h2>Environmental Issues - What are they?</h2>
+			
+			<p>Environmental issues are defined as harmful effects to Earth and its natural systems due to the actions of humans. Although climate change can also occur from natural causes, human behavior has led to an increase in greenhouse emissions. While climate change is discussed frequently now, it has been occurring since the Industrial Revolution.
+
+Climate change affects everyone and the ramifications are visible by the variation in temperatures and an increase of intense natural disasters. It contributes to even broader problems like rising sea levels and loss of biodiversity in our food systems. What’s more, the negative impacts are likely to affect those who are already the most vulnerable.
+
+An additional concern is pollution and its influence on public health. Research shows that black carbon is making dangerous bacteria harder to kill and resistant to antibiotics. Moreover, black carbon increases risks of heart attacks, strokes and even lung cancer.
+
+The vast amount of untested chemicals released into the air and found in our foods and household items endanger general public welfare. One study tested children for the presence of lead, methylmercury and polychlorinated biphenyls and found traces in over 89 percent of the subjects. As the future of society, kids need a safe and healthy start to life.</p>
+			
+	</section>
+</main>
+
+</body>
